@@ -2,7 +2,6 @@ package uz.ibrokhimoff.jpaauditing.listener;
 
 import jakarta.persistence.*;
 import lombok.extern.slf4j.Slf4j;
-import uz.ibrokhimoff.jpaauditing.Monitoringable;
 import uz.ibrokhimoff.jpaauditing.entity.User;
 import uz.ibrokhimoff.jpaauditing.entity.UserHistory;
 import uz.ibrokhimoff.jpaauditing.repository.UserHistoryRepository;
